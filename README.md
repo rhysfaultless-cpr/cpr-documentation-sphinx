@@ -1,5 +1,7 @@
 # CPR documentation
 
+[Access the site here](https://rhysfaultless-cpr.github.io/cpr-documentation/)
+
 This documentation can be build as either webpages or latex/PDF, but is optimized for webpages
 
 ## Setup
