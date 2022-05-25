@@ -33,7 +33,7 @@ This documentation can be build as either webpages or latex/PDF, but is optimize
     2.  Navigate to the root of the project directory on your computer
     3.  Run the command:
 
-            sphinx-build -b html source html
+            sphinx-build -b html source docs
 
 6.  To view the HTML webpages:
 
